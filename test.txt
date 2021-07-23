@@ -1,4 +1,6 @@
-Hello World
+Hello World.
+this is an edit from new brnch.
+let analyze the conflict in files.
 
 
 
